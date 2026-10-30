@@ -5,6 +5,8 @@ Egy papír crossmotort nem irányítasz, csak tintával rajzolod elé a világot
 Fekvő, egyujjas Android-játék. Kézzel épített pályák csillagokkal, és egy végtelen mód, ahol a tinta fogy, és csapdák jönnek: tüskés landoló, felülről zuhanó morzsa, ami ellen tetőt rajzolsz, és gördülő golyó, ami ellen meredek pajzsot rajzolsz.
 
 > Korai tesztverzió. A játék nyelve magyar.
+>
+> Legfrissebb: **v0.28.1** (2026-10-30). A változások a release leírásában.
 
 ## Telepítés
 
